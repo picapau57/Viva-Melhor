@@ -1,6 +1,6 @@
 # Google AdSense ads.txt - Viva Melhor — Guia Prático
-# Substitua "pub-0000000000000000" pelo seu identificador numérico real do Google AdSense
+# Substitua "pub-6821378339078973" pelo seu identificador numérico real do Google AdSense
 # Exemplo de formato oficial:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# google.com, pub-6821378339078973, DIRECT, f08c47fec0942fa0
 
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-6821378339078973, DIRECT, f08c47fec0942fa0

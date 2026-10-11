@@ -1,0 +1,10 @@
+# Robots.txt para Viva Melhor — Guia Prático
+# https://vivamelhorguiapratico.com.br
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /checklist/
+
+# Sitemap Oficial
+Sitemap: https://vivamelhorguiapratico.com.br/sitemap.xml

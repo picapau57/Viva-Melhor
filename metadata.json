@@ -1,0 +1,6 @@
+{
+  "name": "Viva Melhor — Guia Prático",
+  "description": "Portal brasileiro de soluções inteligentes para o cotidiano: receitas econômicas, organização da casa, economia doméstica, jardinagem e ferramentas práticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
